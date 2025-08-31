@@ -11,21 +11,21 @@ Currently seeking opportunities to grow professionally in data analytics, where 
 ## 💼 Current Professional Experience
 
 ### 🏥 **Big Data Analyst & Project Developer** | *Living Stones Foundation (Remote)*
-**May 2024 - Present**
+**May 2025 - Present**
 - Developing medical information management system (EHR) from initial stage
 - Researching existing platforms and proposing functional modules
 - Collaborating with international volunteer team
 - Exploring web frameworks (Next.js) for technology evaluation
 
 ### 📊 **Data Analysis & Academic Processes Intern** | *ValorAcción - ITESO*
-**August 2024 - Present**
+**August 2025 - Present**
 - Big data analysis: 8+ databases with 800,000+ records each
 - Developing statistical reports and dashboards in Excel and Python
 - Automating processes to optimize delivery times
 - Supporting schedule management and critical projects
 
 ### 🗺️ **Data Analyst - Professional Internship** | *Statistical & Geospatial Information Unit - ITESO*
-**August 2024 - Present**
+**August 2025 - Present**
 - Geospatial analysis using ArcGIS Pro and open-source GIS software
 - Processing satellite imagery (NASA and European Union)
 - Mathematical modeling and geospatial databases
