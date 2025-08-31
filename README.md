@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Paco]
+# 👋 Hello! I'm Paco
 
 ## 🎯 About Me
 
@@ -116,16 +116,6 @@ Currently seeking opportunities to grow professionally in data analytics, where 
 - 📊 Developing analytical strategies for specific problems
 - 🎯 Generating actionable conclusions based on context
 - 💡 Deep understanding of data context for meaningful insights
-
----
-
-## 🎯 What I'm Looking For
-
-I'm seeking to develop as a **Data Analyst**, where I can apply my expertise in:
-- **Full analysis cycle**: Data cleaning, preparation, analysis, and visualization
-- **Problem-solving**: Identifying correlations, detecting errors, and developing analytical strategies
-- **Business impact**: Generating actionable insights that drive decision-making
-- **Technical leadership**: Managing technological tools and leading data-driven projects
 
 ---
 
